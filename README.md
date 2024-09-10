@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the PROGRAM NAME Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [FreshBeats](https://github.com/VanlyJackson0620/BIA-Portfolio-Projects/tree/main/FreshBeats) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
